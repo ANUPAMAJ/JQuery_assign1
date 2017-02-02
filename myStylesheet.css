@@ -1,0 +1,36 @@
+.row{
+    margin-top: 10px;
+}
+.align{
+	text-align: center;
+}
+ul{
+    padding-bottom: 20 px;
+}
+li{
+	text-align: center;
+	margin-bottom: 10px;
+	list-style-type: none;
+	
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin: auto;  
+}
+
+td, th {
+    border: 2px solid #B2DFDB;
+    text-align: left;
+    padding: 8px;
+}
+
+#hid{
+    display: none;
+}
+#nav_1{
+    background-color: #004d40;
+}
+.sec{
+    margin-top: 62px;
+}
